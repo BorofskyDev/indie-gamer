@@ -9,7 +9,7 @@ function NavBar() {
           Indie Gamer
           </Link>
         </li>
-        <li>
+        <li className='ml-auto'>
           <Link href='/reviews' className='text-indigo-800 hover:underline'>
             Reviews
           </Link>

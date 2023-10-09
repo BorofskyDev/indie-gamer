@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         inconsolata: ['var(--font-inconsolata)', 'monospace'],
+        sans: ['var(--font-exo2)', 'sans-serif']
       },
     },
   },
