@@ -1,7 +1,9 @@
+import Heading from '../../components/Heading'
+
 export default function AboutPage() {
   return (
     <>
-      <h1>About</h1>
+      <Heading>About</Heading>
       <p>Indie Gamer is a site dedicated to reviewing the best indie games.</p>
     </>
   )

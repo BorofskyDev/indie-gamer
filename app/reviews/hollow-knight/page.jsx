@@ -1,8 +1,10 @@
+import Heading from '../../../components/Heading'
+
 export default function HollowKnightPage() {
-    return (
-        <>
-            <h1>Hollow Knight</h1>
-            <p>One of the best games ever made.</p>
-        </>
-    )
+  return (
+    <>
+      <Heading>Hollow Knight</Heading>
+      <p>One of the best games ever made.</p>
+    </>
+  )
 }
