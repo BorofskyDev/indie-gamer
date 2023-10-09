@@ -3,13 +3,13 @@ import Heading from '@/components/Heading'
 export default function StardewValleyPage() {
   return (
     <>
-      <Heading>Stardew Valley</Heading>
+      <Heading >Stardew Valley</Heading>
       <img
         src='/images/stardew-valley.jpg'
         alt='Stardew Valley'
         width='640'
         height='360'
-        className='mb-2 rounded'
+        className='mb-2 rounded '
       />
       <p>
         Stardew Valley is a farming simulation game. You inherit a farm from

@@ -1,9 +1,10 @@
 import NavBar from '@/components/NavBar'
 import './globals.css'
+import { inconsolata } from './fonts'
 
 export default function RootLayout({ children }) {
   return (
-    <html lang='en'>
+    <html lang='en' className={inconsolata.variable}>
       <body className='flex flex-col min-h-screen px-4 py-2 bg-indigo-50 '>
         <header>[header]</header>
         <NavBar />

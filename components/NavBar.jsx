@@ -5,8 +5,8 @@ function NavBar() {
     <nav>
       <ul className='flex gap-2'>
         <li>
-          <Link href='/' className='text-indigo-800 hover:underline'>
-            Home
+          <Link href='/' className='text-indigo-800 hover:underline font-inconsolata font-bold '>
+          Indie Gamer
           </Link>
         </li>
         <li>
