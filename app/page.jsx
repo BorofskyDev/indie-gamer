@@ -1,13 +1,11 @@
-// 'use client'
-
 import Link from 'next/link'
 import Heading from '@/components/Heading'
 import { getFeaturedReview } from '@/lib/reviews'
 
+
+
 export default async function HomePage() {
   const review = await getFeaturedReview()
-
-  console.log('[HomePage] render')
 
   return (
     <>
@@ -16,7 +14,7 @@ export default async function HomePage() {
 
       <div className='bg-white border roundedshadow hover:shadow-xl w-80 sm:w-full'>
         <Link
-          href='/reviews/{review.slug}'
+          href={`/reviews/${review.slug}`}
           className='flex flex-col sm:flex-row'
         >
           <img
