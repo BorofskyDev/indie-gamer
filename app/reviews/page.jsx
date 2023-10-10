@@ -6,6 +6,11 @@ export const metadata = {
   title: 'Reviews',
 }
 
+// export async function generateStaticParams() {
+//   const slugs = await getSlugs()
+//   return slugs.map((slug) => ({ params: { slug } }))
+// }
+
 export default async function ReviewPage() {
   const reviews = await getReviews()
 
@@ -29,6 +34,7 @@ export default async function ReviewPage() {
               <h2 className='py-1 text-center font-inconsolata'>
                 {review.title}
               </h2>
+              <p>{review.date}</p>
             </Link>
           </li>
         ))}

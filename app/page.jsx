@@ -1,3 +1,6 @@
+// 'use client'
+
+
 import Link from 'next/link'
 import Heading from '@/components/Heading'
 import { getFeaturedReview } from '@/lib/reviews'
