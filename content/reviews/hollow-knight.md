@@ -1,0 +1,29 @@
+---
+title: "Hollow Knight"
+date: "2023-10-09"
+image: "/images/hollow-knight.jpg"
+---
+
+__Hollow Knight__ is a simulation role-playing video game developed and published by Team Cherry. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. Development was partially funded through a Kickstarter crowdfunding campaign, raising over A$57,000 by the end of 2014.
+
+The game tells the story of a knight on a quest to uncover the secrets of the long-abandoned insect kingdom of Hallownest, whose haunting depths draw in the adventurous and brave with promises of treasures and answers to ancient mysteries. The game features fast-paced combat with difficult bosses, exploration, and an expansive world beneath the insect kingdom.
+
+## Gameplay
+
+__Hollow Knight__ is a 2D Metroidvania action-adventure game, in which the player controls a bug-like, silent, and nameless knight while exploring the underground world. The knight wields a nail, which is a cone-shaped sword, used both in combat and environmental interaction. As the player explores the world, they will encounter hostile creatures and bosses. Defeating enemies will yield currency in the form of Geo, which can be used at shops to purchase items such as maps, healing items, weapon upgrades, and more. When the player dies, they will drop all of their Geo, and will have one chance to recover it. If they die before reaching the place where they died previously, their Geo will be lost permanently. The player can also find and unlock various abilities that aid in combat and exploration. The game features over 150 enemies and 40 bosses.
+
+## Plot
+
+The game begins with the player character, a small knight, descending into the ruins of the abandoned insect kingdom of Hallownest. The knight is guided by a small, flying creature named the Seer, who tells the knight that they are the last of their kind, and that they must defeat the Hollow Knight, a corrupted being that is the source of the infection that has ravaged Hallownest. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection. The knight must also defeat the Radiance, a being of light that is the source of the infection.
+
+## Development
+
+__Hollow Knight__ was developed by Team Cherry, a three-person independent game developer consisting of Ari Gibson, William Pellen, and David Kazi. The game was partially funded through a Kickstarter crowdfunding campaign, raising over A$57,000 by the end of 2014. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018. The game was released for Microsoft Windows, macOS, and Linux in 2017, and for the Nintendo Switch, PlayStation 4, and Xbox One in 2018.
+
+## Reception
+
+__Hollow Knight__ received "generally favorable" reviews, according to review aggregator Metacritic. The game was praised for its art style, atmosphere, and gameplay, but criticized for its difficulty. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards. The game was nominated for "Best Indie Game" at The Game Awards 2017, and for "Best Debut Indie Game" at the 2018 British Academy Games Awards.
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Hollow_Knight)
