@@ -1,6 +1,6 @@
 ---
 title: "Hellblade: Senua's Sacrifice"
-date: "2023-10-08"
+date: "2023-10-10"
 image: "/images/hellblade.jpg"
 ---
 

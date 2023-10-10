@@ -1,9 +1,12 @@
-'use client'
+// 'use client'
 
 import Link from 'next/link'
 import Heading from '@/components/Heading'
+import { getFeaturedReview } from '@/lib/reviews'
 
-export default function HomePage() {
+export default async function HomePage() {
+  const review = await getFeaturedReview()
+
   console.log('[HomePage] render')
 
   return (
@@ -13,18 +16,18 @@ export default function HomePage() {
 
       <div className='bg-white border roundedshadow hover:shadow-xl w-80 sm:w-full'>
         <Link
-          href='/reviews/stardew-valley'
+          href='/reviews/{review.slug}'
           className='flex flex-col sm:flex-row'
         >
           <img
-            src='/images/stardew-valley.jpg'
-            alt='Stardew Valley'
+            src={review.image}
+            alt=''
             width='320'
             height='180'
             className=' rounded-t  sm:rounded-l sm:rounded-r-none'
           />
           <h2 className='py-1  text-center font-inconsolata '>
-            Starwdew Valley
+            {review.title}
           </h2>
         </Link>
       </div>
