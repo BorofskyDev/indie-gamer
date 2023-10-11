@@ -1,20 +1,18 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import Heading from '@/components/Heading'
-import { getReviews, getSlugs } from '@/lib/reviews'
-import Image from 'next/image'
+import { getReviews } from '@/lib/reviews'
 
 export const metadata = {
   title: 'Reviews',
 }
 
-export async function generateStaticParams() {
-  const slugs = await getSlugs()
-  return slugs.map((slug) => ({ params: { slug } }))
-}
-
-export default async function ReviewPage() {
+export default async function ReviewsPage() {
   const reviews = await getReviews(6)
-
+  console.log(
+    '[ReviewsPage] rendering:',
+    reviews.map((review) => review.slug).join(', ')
+  )
   return (
     <>
       <Heading>Reviews</Heading>
@@ -22,21 +20,20 @@ export default async function ReviewPage() {
         {reviews.map((review, index) => (
           <li
             key={review.slug}
-            className='bg-white border rounded w-80 shadow hover:shadow-xl'
+            className='bg-white border rounded shadow w-80 hover:shadow-xl'
           >
             <Link href={`/reviews/${review.slug}`}>
               <Image
                 src={review.image}
-                alt={review.title}
-                width={320}
-                height={180}
-                className='mb-2 rounded-t'
-                priority={index < 3}
+                alt=''
+                priority={index === 0}
+                width='320'
+                height='180'
+                className='rounded-t'
               />
-              <h2 className='py-1 text-center font-inconsolata'>
+              <h2 className='font-orbitron font-semibold py-1 text-center'>
                 {review.title}
               </h2>
-              <p>{review.date}</p>
             </Link>
           </li>
         ))}
