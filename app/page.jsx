@@ -24,14 +24,17 @@ export default async function HomePage() {
             >
               <Image
                 src={review.image}
-                alt=''
+                alt={review.title}
                 width={320}
                 height={180}
                 className=' rounded-t  sm:rounded-l sm:rounded-r-none'
               />
-              <h2 className='py-1  text-center font-inconsolata '>
-                {review.title}
-              </h2>
+              <div className='px-2 py-1 text-center sm:text-left'>
+                <h2 className='font-mono font-semibold'>
+                  {review.title}
+                </h2>
+                <p className='pt-2 hidden sm:block'>{review.subtitle}</p>
+              </div>
             </Link>
           </li>
         ))}
